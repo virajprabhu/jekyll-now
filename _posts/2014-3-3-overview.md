@@ -13,6 +13,6 @@ Questions asked about images often contain ‘premises’ that imply visual sema
 
 ## Authors
 
-[Aroma Mahendru](https://computing.ece.vt.edu/~aroma/)\*, [Viraj Prabhu](virajprabhu.github.io)\*, [Akrit Mohapatra](https://computing.ece.vt.edu/~akrit/)\*, [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/index.html), [Stefan Lee](https://www.cc.gatech.edu/~slee3191/index.html) 
+[Aroma Mahendru](https://computing.ece.vt.edu/~aroma/)\*, [Viraj Prabhu](https://virajprabhu.github.io)\*, [Akrit Mohapatra](https://computing.ece.vt.edu/~akrit/)\*, [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/index.html), [Stefan Lee](https://www.cc.gatech.edu/~slee3191/index.html) 
 
 (* = equal contribution)
